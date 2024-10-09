@@ -334,3 +334,13 @@ header h1 {
     transform: translateY(0);
   }
 }
+.buttons{
+  height: 30px;
+  width: 75px;
+  background-color: rgb(82, 178, 237);
+  cursor: pointer;
+  border-radius: 5px;
+}
+.buttons:hover{
+  background-color: #3a2353;
+}
